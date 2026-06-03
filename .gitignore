@@ -1,0 +1,11 @@
+.vscode/
+.idea/
+.claude/
+*.tgz
+*.tar.gz
+*.zip
+Python-3.7.7.tgz
+go1.25.1.linux-amd64.tar.gz
+object_frame_statistics1.json
+pc
+

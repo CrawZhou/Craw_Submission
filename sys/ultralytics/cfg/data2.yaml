@@ -1,0 +1,10 @@
+
+train: /home/nanchang/ZZQ/yolov13/main/yolov13-main/datasets2/images/train # train images (relative to 'path') 128 images
+val: /home/nanchang/ZZQ/yolov13/main/yolov13-main/datasets2/images/val # val images (relative to 'path') 128 images
+test: /home/nanchang/ZZQ/yolov13/main/yolov13-main/datasets2/images/test # test images (optional)
+
+nc: 5
+
+# Classes
+names: ['tram','bus','truck','car','motor']
+
