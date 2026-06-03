@@ -1,4 +1,4 @@
-# Craw: A Unified and Efficient Querying Framework for Large-Scale Video Datasets
+# Craw_Submission
 
 This repository contains the code for the paper:
 
